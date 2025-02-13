@@ -23,8 +23,8 @@ numpy
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/hierarchical-attention-decoder
-cd hierarchical-attention-decoder
+git clone https://github.com/percy-b/Hierarchical-attention.git
+cd Hierarchical-attention
 pip install -r requirements.txt
 ```
 
