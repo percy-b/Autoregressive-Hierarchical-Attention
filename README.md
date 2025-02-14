@@ -18,6 +18,9 @@ This architecture introduces a hierarchical attention mechanism that processes s
 ```
 torch>=1.8.0
 numpy
+transformers
+datasets
+tiktoken
 ```
 
 ## Installation
