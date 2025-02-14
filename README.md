@@ -1,5 +1,10 @@
 # Hierarchical-attention
 
+## License  
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed under the [GNU GPL v3](LICENSE).
+
+
 # Hierarchical Attention Decoder
 
 A PyTorch implementation of a novel hierarchical attention-based decoder architecture that combines tree-structured attention mechanisms with traditional transformer components for efficient sequence processing.
